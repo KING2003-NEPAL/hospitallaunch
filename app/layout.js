@@ -1,5 +1,5 @@
 import "./globals.css";
-export const metadata = { title: "HospitaLaunch", description: "Career Passport Platform" };
+export const metadata = { title: "HospitaLaunch" };
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
